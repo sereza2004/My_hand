@@ -1,0 +1,10 @@
+Added Component: Designator=U1(PCB_DRV8833)
+Added Component: Designator=U2(PCB_DRV8833)
+Added Component: Designator=U3(PCB_74HC595_Footprint)
+Added Component: Designator=U4(PCB_ATMega328p)
+Added Component: Designator=VR2(DC-DC Step-Down Footprint)
+Added Pin To Net: NetName=NetS1_0 Pin=VR2-0
+Added Net: Name=NetS1_0
+Added Pin To Net: NetName=NetS1_1 Pin=VR2-1
+Added Net: Name=NetS1_1
+Added Class: Name=Sheet_Robo_Hand_main

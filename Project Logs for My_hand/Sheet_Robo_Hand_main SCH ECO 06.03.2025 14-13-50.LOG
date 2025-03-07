@@ -1,0 +1,5 @@
+Change Component Footprint: Designator=U1 Old Footprint=PCB_ATMega328p New Footprint=PCB_DRV8833
+Change Component Comment: Designator=U1 Old Comment=ATMega328p New Comment=DRV8833
+Change Pin Designator/Name:  Old Designator=U1-2 Old Name=VCC New Designator =VCC New Name=2
+Change Pin Designator/Name:  Old Designator=U1-3 Old Name=GND New Designator =GND New Name=3
+Change Pin Designator/Name:  Old Designator=U1-5 Old Name=Q3 New Designator =IN4 New Name=5

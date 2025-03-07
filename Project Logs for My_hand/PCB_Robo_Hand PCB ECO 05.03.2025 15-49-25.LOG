@@ -1,0 +1,5 @@
+Added Component: Designator=VR(DC-DC Step-Up Footprint)
+Added Pin To Net: NetName=NetU4_1 Pin=U4-1
+Added Pin To Net: NetName=NetU4_1 Pin=VR-1
+Added Net: Name=NetU4_1
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component VR SX1308

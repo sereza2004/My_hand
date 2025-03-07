@@ -1,0 +1,10 @@
+Added Component: Designator=CS2(CapacitorSMD)
+Added Component: Designator=P9(P)
+Added Component: Designator=P10(P)
+Added Pin To Net: NetName=NetCS1_0 Pin=CS2-0
+Added Pin To Net: NetName=NetCS1_1 Pin=CS2-1
+Added Pin To Net: NetName=NetP9_0 Pin=P9-0
+Added Pin To Net: NetName=NetP10_0 Pin=P10-0
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component CS2 CapacitorSMD
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component P9 Pin
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component P10 Pin

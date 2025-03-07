@@ -1,0 +1,6 @@
+Modified Rule: Name=Schematic Differential Pairs Routing
+Modified Rule: Name=Schematic Width Constraint
+Change Pin Designator/Name:  Old Designator=U2-7 Old Name=OUT1 New Designator =OUT3 New Name=9
+Change Pin Designator/Name:  Old Designator=U2-8 Old Name=OUT2 New Designator =OUT4 New Name=10
+Change Pin Designator/Name:  Old Designator=U2-9 Old Name=OUT3 New Designator =OUT1 New Name=7
+Change Pin Designator/Name:  Old Designator=U2-10 Old Name=OUT4 New Designator =OUT2 New Name=8

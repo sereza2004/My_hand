@@ -1,0 +1,8 @@
+Added Component: Designator=U4(PCB_ATMega328p)
+Added Pin To Net: NetName=NetS1_0 Pin=U4-0
+Added Pin To Net: NetName=NetCS1_1 Pin=U4-1
+Added Pin To Net: NetName=NetU3_8 Pin=U4-3
+Added Pin To Net: NetName=NetU3_12 Pin=U4-15
+Added Pin To Net: NetName=NetU3_13 Pin=U4-16
+Added Pin To Net: NetName=NetU3_10 Pin=U4-18
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component U4 DRV8833

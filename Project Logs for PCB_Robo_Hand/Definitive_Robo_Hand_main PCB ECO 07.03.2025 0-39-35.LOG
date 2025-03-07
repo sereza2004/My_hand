@@ -1,0 +1,21 @@
+Added Component: Designator=CS1(CapacitorSMD)
+Added Component: Designator=P5(P)
+Added Component: Designator=P6(P)
+Added Component: Designator=P7(P)
+Added Component: Designator=P8(P)
+Added Pin To Net: NetName=NetCS1_0 Pin=CS1-0
+Added Pin To Net: NetName=NetS1_1 Pin=CS1-1
+Added Pin To Net: NetName=NetS1_1 Pin=CS2-1
+Added Pin To Net: NetName=NetP5_0 Pin=P5-0
+Added Pin To Net: NetName=NetP6_0 Pin=P6-0
+Added Pin To Net: NetName=NetP7_0 Pin=P7-0
+Added Pin To Net: NetName=NetP8_0 Pin=P8-0
+Change Net Name : Old Net Name=NetS1_1 New Net Name=NetCS1_1
+Added Pin To Net: NetName=NetP4_0 Pin=P4-0
+Added Pin To Net: NetName=NetP4_0 Pin=VR1-1
+Added Net: Name=NetP4_0
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component CS1 CapacitorSMD
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component P5 Pin
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component P6 Pin
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component P7 Pin
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component P8 Pin

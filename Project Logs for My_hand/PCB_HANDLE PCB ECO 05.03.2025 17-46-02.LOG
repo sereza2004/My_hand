@@ -1,0 +1,18 @@
+Added Component: Designator=S1(DC-DC Step-Up Footprint)
+Added Component: Designator=U1(PCB_DRV8833)
+Added Component: Designator=U2(PCB_DRV8833)
+Added Component: Designator=U3(PCB_74HC595_Footprint)
+Added Component: Designator=U4(PCB_ATMega328p)
+Added Component: Designator=VR2(DC-DC Step-Down Footprint)
+Added Pin To Net: NetName=NetS1_1 Pin=S1-1
+Added Pin To Net: NetName=NetS1_1 Pin=U1-3
+Added Pin To Net: NetName=NetS1_1 Pin=U2-3
+Added Pin To Net: NetName=NetS1_1 Pin=U3-0
+Added Pin To Net: NetName=NetS1_1 Pin=U4-1
+Added Net: Name=NetS1_1
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component S1 SX1308
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component U1 DRV8833
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component U2 DRV8833
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component U3 74HC595
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component U4 ATMega328p
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component VR2 LM2596

@@ -1,0 +1,6 @@
+Added Component: Designator=C1(Capacitor)
+Added Component: Designator=C2(Capacitor)
+Added Pin To Net: NetName=NetC1_0 Pin=C1-0
+Added Pin To Net: NetName=NetC1_0 Pin=C2-0
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component C1 Capacitor
+Added Member To Class: ClassName=Sheet_Robo_Hand_main Member=Component C2 Capacitor
