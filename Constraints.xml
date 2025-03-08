@@ -41,15 +41,15 @@
   </CXNetClasses>
   <ConstraintClearancesMatrix>
     <CCMFromScopes>
-      <CCMFromScope Id="83aa7e9d-9a91-4732-ab19-0afbb2d177b3">
+      <CCMFromScope Id="6b6934a3-3d8d-419b-90f3-704ffffa11c4">
         <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
         <CCMToScopes>
-          <CCMToScope Id="e3673717-4767-4684-a315-1f6e81c064cd" SetId="00000000-0000-0000-0000-000000000000">
+          <CCMToScope Id="92275262-a65f-419b-92c3-ed5fb23711ed" SetId="00000000-0000-0000-0000-000000000000">
             <ConstraintObject Id="00000000-0000-0000-0000-000000000000" />
             <DefaultConstraintClearancesMatrixConstraint Id="00000000-0000-0000-0000-000000000000" Kind="0" Name="" Comment="" Description="" Attributes="" LayerType="0" LayerId="0" />
             <CCMConstraints>
-              <CCMConstraint Id="54c7250c-fca8-4d6e-a11e-cb9cec4631bc" Kind="0" Name="Clearance_1" Comment="" Description="Clearance Constraint [Clearance = 2mm]" Scope1="OnMid" Scope2="OnMid" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=78.7402mil|GENERICCLEARANCE=78.7402mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= |DOC=Definitive_Robo_Hand_main.PcbDoc" LayerType="2" LayerId="0" />
-              <CCMConstraint Id="d91b7dc2-cc6c-4eb6-989b-aaac029b68f1" Kind="0" Name="Clearance_2" Comment="" Description="Clearance Constraint [Clearance = 2mm]" Scope1="(ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer'))" Scope2="(ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer'))" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=78.7402mil|GENERICCLEARANCE=78.7402mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= |DOC=Definitive_Robo_Hand_main.PcbDoc" LayerType="1" LayerId="0" />
+              <CCMConstraint Id="3d7df34e-09c4-415c-80b1-c992f6743226" Kind="0" Name="Clearance_1" Comment="" Description="Clearance Constraint [Clearance = 0.1mm]" Scope1="OnMid" Scope2="OnMid" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=3.937mil|GENERICCLEARANCE=3.937mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= |DOC=Definitive_Robo_Hand_main.PcbDoc" LayerType="2" LayerId="0" />
+              <CCMConstraint Id="d57b4f5c-792d-4ab5-b679-f7b115cf58cb" Kind="0" Name="Clearance_2" Comment="" Description="Clearance Constraint [Clearance = 0.1mm]" Scope1="(ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer'))" Scope2="(ExistsOnLayer('Top Layer') Or ExistsOnLayer('Bottom Layer'))" Attributes="NETSCOPE=DifferentNets|LAYERKIND=SameLayer|GAP=3.937mil|GENERICCLEARANCE=3.937mil|IGNOREPADTOPADCLEARANCEINFOOTPRINT=FALSE|OBJECTCLEARANCES= |DOC=Definitive_Robo_Hand_main.PcbDoc" LayerType="1" LayerId="0" />
             </CCMConstraints>
           </CCMToScope>
         </CCMToScopes>
